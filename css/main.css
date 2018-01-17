@@ -1,0 +1,104 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-weight: 200;
+}
+
+
+nav {
+	background-color: #FE7E00;
+	padding: 10px 5px;
+}
+nav div {
+	display:inline-block;
+/*	width: 50%; */
+}
+nav ul {
+	padding-left: 0;
+	padding-right: 15px;
+}
+nav img {
+	width: 30px;
+}
+span {
+	font-weight: bold;
+}
+nav #navright {
+	width: 70%;
+	text-align: right;
+}
+nav #navleft {
+	width: 30%
+	padding-left:;
+}
+nav #navleft a {
+	margin-left: 45px;
+	font-size: 27px;
+}
+nav #navright ul li {
+	display: inline-block;
+}
+nav  a {
+	color: #FFF;
+	text-decoration: none;
+}
+div#search {
+	text-align: right;
+}
+#search i {
+	position: relative;
+	right:  -180px;
+	color: #C5C5C7;
+}
+#search input {
+	padding: 15px;
+	background-color: #F0F0EF;
+	border: none;
+	margin-right: 35px;
+	margin-top: 10px; 
+}
+#left, #right {
+	display: inline-block;
+	width: 50%
+}
+#left img {
+	width: 100%;
+}
+#right h1 {
+	margin: 0 15px;
+    font-weight: 400;
+    font-size: 35px;
+}
+#right div {
+	text-align: center;
+	padding: 45px 0;
+}
+#right span {
+	color: #FE7E00;
+}
+#right span.teal {
+	color: #7BCBC9;
+}
+button {
+	background-color: #FE7E00;
+	color: #FFF;
+	border: none;
+	padding: 15px 20px;
+	width: 42%;
+	margin: 0 3%;
+}
+button.teal {
+	background-color: #7BCBC9;
+}
+footer {
+	background-color: #7BCBC9;
+	height: 150px;
+}
+
+
+
+
+
+
+
+
